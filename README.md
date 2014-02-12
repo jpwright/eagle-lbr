@@ -3,11 +3,14 @@ eagle-lbr
 
 Custom Eagle libraries! All were designed using Eagle 6 and are in the newer XML format.
 
-Current inventory:
+Expressly *no warranty*. Many of these are untested.
+
+## Current inventory:
 
 ### atmel-custom
 
 - AT28C256-28DIP (IC EEPROM 256KBIT 150NS)
+- ATSAMA5D3 (Cortex-A5 eMPU 536 MHz, LFBGA-324)
 
 ### macronix-custom
 
@@ -31,6 +34,7 @@ Current inventory:
 
 ### texas-custom
 
+- LM3671 (2 MHz, 600 mA Step-Down DC-DC converter)
 - LT1054 (bipolar switched-cap voltage converter/regulator) [SOIC16L]
 
 ### vishay
