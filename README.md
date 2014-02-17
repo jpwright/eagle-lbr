@@ -40,3 +40,7 @@ Expressly *no warranty*. Many of these are untested.
 ### vishay
 
 - DG643 (analog mux)
+
+### xilinx-custom
+
+- XC6SLX9 (Spartan-6 LX9 FPGA)
