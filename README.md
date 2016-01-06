@@ -1,7 +1,7 @@
 eagle-lbr
 =========
 
-Custom Eagle libraries! All were designed using Eagle 6 and are in the newer XML format.
+Custom Eagle libraries! All were designed using Eagle 6+ and are in the newer XML format.
 
 Expressly *no warranty*. Many of these are untested.
 
@@ -36,6 +36,7 @@ Expressly *no warranty*. Many of these are untested.
 
 - LM3671 (2 MHz, 600 mA Step-Down DC-DC converter)
 - LT1054 (bipolar switched-cap voltage converter/regulator) [SOIC16L]
+- MSP430F5172IRSBT (16-bit MCU) [QFN40]
 
 ### vishay
 
