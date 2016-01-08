@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.5.0">
+<eagle version="7.4.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="0.01" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.001" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
@@ -425,6 +425,7 @@ Source: http://focus.ti.com .. sn65176b.pdf</description>
 <wire x1="-2.575" y1="-2.575" x2="-2.575" y2="-2.1" width="0.127" layer="21"/>
 <text x="-2.6" y="3.6" size="0.6096" layer="25" align="center-left">&gt;NAME</text>
 <text x="-2.6" y="-3.6" size="0.6096" layer="27" align="center-left">&gt;VALUE</text>
+<circle x="-3.048" y="2.54" radius="0.1626375" width="0.127" layer="21"/>
 </package>
 </packages>
 <symbols>
@@ -527,7 +528,7 @@ Source: http://focus.ti.com .. sn65176b.pdf</description>
 <text x="0" y="40.64" size="1.016" layer="97" align="center-left">PM_UCA0TXD/PM_UCA0SIMO/A1/CB1</text>
 <text x="0" y="38.1" size="1.016" layer="97" align="center-left">PM_UCA0RXD/PM_UCA0SOMI/A2/CB2</text>
 <text x="0" y="35.56" size="1.016" layer="97" align="center-left">PM_UCB0CLK/PM_UCA0STE/A3/CB3</text>
-<text x="0" y="33.02" size="1.016" layer="95" align="center-left">PM_UCB0SIMO/PM_UCB0SDA/A4/CB4</text>
+<text x="0" y="33.02" size="1.016" layer="97" align="center-left">PM_UCB0SIMO/PM_UCB0SDA/A4/CB4</text>
 <text x="0" y="30.48" size="1.016" layer="97" align="center-left">PM_UCB0SOMI/PM_UCB0SCL/A5/CB5</text>
 <text x="0" y="27.94" size="1.016" layer="97" align="center-left">PM_TD0.0</text>
 <text x="0" y="25.4" size="1.016" layer="97" align="center-left">PM_TD0.1</text>
