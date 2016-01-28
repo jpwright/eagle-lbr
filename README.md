@@ -12,6 +12,10 @@ Expressly *no warranty*. Many of these are untested.
 - AT28C256-28DIP (IC EEPROM 256KBIT 150NS)
 - ATSAMA5D3 (Cortex-A5 eMPU 536 MHz, LFBGA-324)
 
+### alliance-custom
+
+- [AS6C4008-SOP32](http://www.mouser.com/ProductDetail/Alliance-Memory/AS6C4008-55SIN/?qs=sGAEpiMZZMt9mBA6nIyysPeGHDtAZQ%252bHZBa48Eu6mvk%3d) (SRAM 4M, 2.7-5.5V, 55ns 512K x 8 Asynch SRAM)
+
 ### macronix-custom
 
 - MX29F040CQI (IC FLASH 4MBIT 70NS 32PLCC) [pin-compatible with MX29LV040, among others]
