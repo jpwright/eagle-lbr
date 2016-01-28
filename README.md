@@ -14,7 +14,7 @@ Expressly *no warranty*. Many of these are untested.
 
 ### alliance-custom
 
-- [AS6C4008-SOP32](http://www.mouser.com/ProductDetail/Alliance-Memory/AS6C4008-55SIN/?qs=sGAEpiMZZMt9mBA6nIyysPeGHDtAZQ%252bHZBa48Eu6mvk%3d) (SRAM 4M, 2.7-5.5V, 55ns 512K x 8 Asynch SRAM)
+- [AS6C4008](http://www.mouser.com/ProductDetail/Alliance-Memory/AS6C4008-55SIN/?qs=sGAEpiMZZMt9mBA6nIyysPeGHDtAZQ%252bHZBa48Eu6mvk%3d) (SRAM 4M, 2.7-5.5V, 55ns 512K x 8 Asynch SRAM) [SOP-32]
 
 ### macronix-custom
 
@@ -40,7 +40,12 @@ Expressly *no warranty*. Many of these are untested.
 
 - LM3671 (2 MHz, 600 mA Step-Down DC-DC converter)
 - LT1054 (bipolar switched-cap voltage converter/regulator) [SOIC16L]
-- MSP430F5172IRSBT (16-bit MCU) [QFN40]
+- MSP430F5172IRSB (16-bit MCU) [QFN40]
+- MSP430F5310IRGC (16-bit MCU) [QFN64]
+- MSP430F5310IZQE (16-bit MCU) [BGA80]
+- TPS3619
+- TPS3809L30DBVR
+- TPS22860DBVR
 
 ### vishay
 
